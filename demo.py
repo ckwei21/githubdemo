@@ -1,2 +1,2 @@
 print "Hello"
-print "hello,teacher 大卫 :)"
+print "hello,teacher 大卫 :):)"
